@@ -6,10 +6,11 @@
 ## Project setup
 ```
 配置项：
+```
 参数 | key | type | demo 
 - | :-: | :-: | :-: | -:
 占比百分比数量 | num | Number | 70 | 
 总数 | total| Number | 100 | 
 开始渐变颜色 | colorStart| 16进制 或 rgba | #fff / rgba(9,187,255,1) | 
 结束渐变颜色 | colorEnd| 16进制 或 rgba | #000 / rgba(94,235,248,1) | 
-```
+
